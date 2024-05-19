@@ -29,6 +29,9 @@
     "typescript": "^5.1.6"
   },
   "dependencies": {
-    "express": "^4.18.2"
-  }
+    "@faker-js/faker": "^8.4.1",
+    "express": "^4.18.2",
+    "zod": "^3.23.8"
+  },
+  "packageManager": "pnpm@8.15.4+sha1.c85a4305534f76d461407b59277b954bac97b5c4"
 }
